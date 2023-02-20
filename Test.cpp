@@ -12,5 +12,6 @@ int main()
     {
         cout << word << " ";
     }
+    cout << " This is Debug message";
     cout << endl;
 }
